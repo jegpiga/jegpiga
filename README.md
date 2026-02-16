@@ -1,11 +1,9 @@
-### 👋 Hi, there!
+### 👋 Hi, I'm [**John Emmanuel Piga**](https://www.tiktok.com/@xzifuft27)
 
-I'm [**John Emanuel Piga**](https://www.facebook.com/@johnemmanuelgortezapiga.it), a student and aspiring developer focused on creating apps that are **useful, interactive, and meaningful**. I enjoy learning, coding, and sharing knowledge — whether that’s through building small projects, attending lectures, or watching YouTube tutorials. I'm also currently learning web development, mobile development, and other things.
-
----
+I'm an IT student and a Linux enthusiast with a strong focus on **server-side logic, databases, APIs, and application architecture**. I aspire to be a Backend Developer, **ensuring system security, code functionality, and application scalability**. I currently learning Kotlin for Android, Bash scripting on Termux, wireframing, and Git.
 
 **Fun facts:**
 
-* I don't like coffee or tea
-* Stephen Curry is my favorite athlete
-* **Hobbies**: dance & beatbox
+* I don't use Canva
+* My favorite dish is Sinigang
+* My hobbies are dancing and beatboxing
